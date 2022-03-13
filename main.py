@@ -6,4 +6,6 @@
 # from sliding_window.anagrams import *
 
 # Two pointer approach based problems
-from two_pointers.pair_target_sum import *
+# from two_pointers.pair_target_sum import *
+# from two_pointers.remove_duplicates import *
+from two_pointers.sorting_squares import *
